@@ -1,12 +1,27 @@
-<h1 align="center">Hello, I'm Loic DLUGOSZ 👋</h1>
-<p align="center">A freelance web developer with a passion for Web 3.0 and Blockchain</p>
+[![MasterHead](https://pbs.twimg.com/profile_banners/1640105698523504643/1682074233/1500x500)](https://ogronex.com/)
+<h1 align="center">Hi 👋, I'm Loic DLUGOSZ</h1>
+<h3 align="center">A freelance web developer with a passion for Web 3.0 and Blockchain</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lolosenpai&label=Profile%20views&color=0e75b6&style=flat" alt="lolosenpai" /> </p>
 
-<p align="center">
-  <a href="https://ogronex.com/"><img src="https://img.shields.io/badge/Ogronex-Project-00D2B2?style=for-the-badge&logo=data:image/png;base64,..."></a>
-  <a href="https://oryon-merch.com/"><img src="https://img.shields.io/badge/Oryon-ECommerce-FF70A6?style=for-the-badge&logo=data:image/png;base64,..."></a>
-  <a href="https://twitter.com/LoicDlugosz"><img src="https://img.shields.io/badge/Follow%20Me-%40LoicDlugosz-1DA1F2?style=for-the-badge&logo=twitter"></a>
+<p align="left"> <a href="https://twitter.com/loicdlugosz" target="blank"><img src="https://img.shields.io/twitter/follow/loicdlugosz?logo=twitter&style=for-the-badge" alt="loicdlugosz" /></a> </p>
+
+- 🔭 I’m currently working on [Ogronex](https://ogronex.com/)
+
+- 🌱 I’m currently learning **NextJS**
+
+- 👨‍💻 All of my projects are available at [https://github.com/LoLoSenPai](https://github.com/LoLoSenPai)
+
+- 💬 Ask me about **JS/React/NextJS Front-end**
+
+- 📫 How to reach me **loic.dlugosz@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/loicdlugosz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="loicdlugosz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/loïc-dlugosz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loïc-dlugosz" height="30" width="40" /></a>
+<a href="https://discord.gg/lolo_senpai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lolo_senpai" height="30" width="40" /></a>
 </p>
 
 ---
@@ -25,16 +40,8 @@
 
 ---
 
-<h3 align="center">🌐 Let's Connect!</h3>
-<p align="center">
-  <a href="https://twitter.com/LoicDlugosz"><img src="https://img.shields.io/twitter/follow/LoicDlugosz?style=social"></a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lolosenpai&show_icons=true&locale=en&layout=compact" alt="lolosenpai" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lolosenpai&show_icons=true&locale=en" alt="lolosenpai" /></p>
 
-<p align="center">
-  <samp>
-    Fascinated by Web 3.0, I continuously immerse myself in the latest trends and technologies. The world of NFTs captivates me, and I'm always on the lookout for innovative collaborations and projects.
-    <br><br>Want to chat? DM me on <a href="https://twitter.com/LoicDlugosz">@LoicDlugosz</a> or Discord: <b>lolo_senpai</b> 📫
-  </samp>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lolosenpai&" alt="lolosenpai" /></p>

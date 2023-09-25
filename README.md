@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LoLoSenPai](https://github.com/LoLoSenPai)
 
-- 💬 Ask me about **JS/React/NextJS Front-end**
+- 💬 Ask me about **JS/React/NextJS  CSS/Tailwind**
 
 - 📫 How to reach me **loic.dlugosz@gmail.com**
 

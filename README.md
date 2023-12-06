@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LoLoSenPai](https://github.com/LoLoSenPai)
+- 👨‍💻 [My Portfolio]([https://github.com/LoLoSenPai](https://lololabs.vercel.app))
 
 - 💬 Ask me about **JS/React/NextJS  CSS/Tailwind**
 

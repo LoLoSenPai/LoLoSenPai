@@ -1,4 +1,4 @@
-[![MasterHead](https://pbs.twimg.com/profile_banners/1640105698523504643/1682074233/1500x500)](https://ogronex.com/)
+[![MasterHead](https://pbs.twimg.com/profile_banners/2786122313/1699215367/1500x500)](https://lololabs.vercel.app/)
 <h1 align="center">Hi 👋, I'm Loic DLUGOSZ</h1>
 <h3 align="center">A freelance web developer with a passion for Web 3.0 and Blockchain</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

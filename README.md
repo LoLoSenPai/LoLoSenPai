@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/loicdlugosz" target="blank"><img src="https://img.shields.io/twitter/follow/loicdlugosz?logo=twitter&style=for-the-badge" alt="loicdlugosz" /></a> </p>
 
-- 🔭 I’m currently working on [Ogronex](https://ogronex.com/)
+- 🔭 I’m currently available for work.
 
 - 🌱 I’m currently learning **NextJS**
 

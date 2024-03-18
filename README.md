@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently available for work.
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **NextJS & Rust**
 
 - 👨‍💻 [My Portfolio]([https://github.com/LoLoSenPai](https://lololabs.vercel.app))
 

@@ -9,11 +9,9 @@
 
 - 🔭 I’m currently available for work.
 
-- 🌱 I’m currently learning **NextJS & Rust**
-
 - 👨‍💻 [My Portfolio](https://portfolio.lololabs.xyz/)
 
-- 💬 Ask me about **JS/React/NextJS  CSS/Tailwind**
+- 💬 Ask me about **NextJS/Tailwind/Solana**
 
 - 📫 How to reach me **loic.dlugosz@gmail.com**
 
